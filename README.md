@@ -1,1 +1,1 @@
-# album-of-standart-solution
+# album-of-standard-solution
